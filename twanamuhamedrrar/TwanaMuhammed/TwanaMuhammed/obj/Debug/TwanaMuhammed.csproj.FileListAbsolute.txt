@@ -1,0 +1,7 @@
+C:\Users\sha pc\source\repos\TwanaMuhammed\TwanaMuhammed\bin\Debug\TwanaMuhammed.exe.config
+C:\Users\sha pc\source\repos\TwanaMuhammed\TwanaMuhammed\bin\Debug\TwanaMuhammed.exe
+C:\Users\sha pc\source\repos\TwanaMuhammed\TwanaMuhammed\bin\Debug\TwanaMuhammed.pdb
+C:\Users\sha pc\source\repos\TwanaMuhammed\TwanaMuhammed\obj\Debug\TwanaMuhammed.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\TwanaMuhammed\TwanaMuhammed\obj\Debug\TwanaMuhammed.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\TwanaMuhammed\TwanaMuhammed\obj\Debug\TwanaMuhammed.exe
+C:\Users\sha pc\source\repos\TwanaMuhammed\TwanaMuhammed\obj\Debug\TwanaMuhammed.pdb
